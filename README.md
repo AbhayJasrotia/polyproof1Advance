@@ -60,15 +60,3 @@ The `getbalance.js` script fetches the NFT balance of my account on the Polygon 
 **Summer Training:** Chandigarh University (Punjab)
 **License:** MIT
 **Owner:** [Abhay Jasrotia](https://www.linkedin.com/in/abhay-jasrotia-907487236/)
-
-npm install
-
-npx hardhat test
-
-npx hardhat run scripts/deploy.js --network goerli 
-
-npx hardhat run scripts/batchMint.js --network goerli
-
-npx hardhat run scripts/approveDeposit.js --network goerli
-
-npx hardhat run scripts/getBalance.js --network mumbai
